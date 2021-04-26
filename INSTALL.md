@@ -21,7 +21,7 @@ git submodule init
 git submodule update
 ```
 
-3. Link our model to ROSS
+3. Link our model to ROSS (don't have to do this first time)
 
 ```
 ln -s ~/path-to/our-model/in-the-github models/Project
