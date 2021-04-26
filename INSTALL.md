@@ -7,6 +7,7 @@ For the Eriks in our lives.
 1. Clone (my version) of the repo into your local machine
 
 ```
+cd ~
 git clone -b master --single-branch git@github.com:stevespreiz/ROSS.git
 cd ROSS
 ```
