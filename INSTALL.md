@@ -40,7 +40,7 @@ cd build-ROSS
 ```
 module load xl_r spectrum-mpi cuda
 cmake3 ../ROSS -DCMAKE_CXX_COMPILER=mpicxx -DCMAKE_INSTALL_PREFIX=~/build-ROSS/ \
- -DCMAKE_C_COMPILER=gcc -DROSS_BUILD_MODELS=ON
+ -DCMAKE_C_COMPILER=mpixlc -DROSS_BUILD_MODELS=ON
 make install -j4
 ```
 
