@@ -52,3 +52,5 @@ cd ~/build-ROSS/models/phold/
 ```
 
 Should work I hope.
+
+7. To add your own model follow the directions in README
